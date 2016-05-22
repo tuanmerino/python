@@ -2,7 +2,6 @@
 #website test : tuanmerino.ga
 import mechanize
 import cookielib
-import urllib
 import random
 import sys
 useragents = [
@@ -54,6 +53,6 @@ ____/ _|   \__,_|\__|\___|      _|  \___/ _|  \___|\___|  by tuanmerino
 		if a ==url:
 			print 'Redirect link: '+ str(a) +" pass: "+str(listpwd[i])+ " False"
 		else:
-			print'Redirect link: '+ (a) +" pass: "+str(listpwd[i])+ " True"
+			print'Redirect link: '+ str(a) +" pass: "+str(listpwd[i])+ " True"
 #			sys.exit()
  
