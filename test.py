@@ -1,3 +1,5 @@
+#code by tuanmerino
+#website test : tuanmerino.ga
 import mechanize
 import cookielib
 import urllib
