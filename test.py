@@ -34,7 +34,7 @@ while 1:
  __ )             |               _|                     
  __ \   __| |   | __|  _ \       |    _ \   __| __|  _ \ 
  |   | |    |   | |    __/_____| __| (   | |   (     __/ 
-____/ _|   \__,_|\__|\___|      _|  \___/ _|  \___|\___| v1.0 by tuanmerino
+____/ _|   \__,_|\__|\___|      _|  \___/ _|  \___|\___|  by tuanmerino
 		www.facebook.com/tuanmerino.FP                                 """	
 	url =raw_input('Page login: ')
 	user=raw_input('User: ')
